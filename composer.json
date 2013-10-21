@@ -14,7 +14,7 @@
     "require": {
         "doctrine/dbal"         : "~2.3",
         "kriswallsmith/assetic" : "~1.1",
-        "leafo/lessphp"         : "~0.4.0",
+        "leafo/scssphp"         : "dev-master",
         "mheap/silex-assetic"   : "~1.0",
         "monolog/monolog"       : "~1.6",
         "silex/silex"           : "~1.1",
@@ -29,7 +29,7 @@
         "symfony/yaml"          : "~2.3",
         "twig/twig"             : ">=1.0,<2.0",
         "silex/web-profiler"    : "~1.0.1",
-        "twitter/bootstrap"     : "2.3.2"
+        "zurb/foundation"       : "~4.3"
     },
     "require-dev": {
         "symfony/browser-kit"   : "~2.3",
